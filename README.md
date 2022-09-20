@@ -1,1 +1,1 @@
-# withings-daily-steps-remaining
+This widget retrieves user-held data from Withings, and shows the user how many steps they need to take to reach their daily step goal. It has some helper functions to calculate, on average, how much it would take them to reach their goal, and how much distance they would be covering & how many calories they would be burning by doing so.
